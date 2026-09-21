@@ -75,11 +75,4 @@ Software developer with a frontend focus — React, TypeScript and MUI by day, P
 
 ---
 
-### GitHub at a glance
-
-![Marta's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartaSomborn&show_icons=true&hide_border=true&bg_color=00000000)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MartaSomborn&layout=compact&hide_border=true&bg_color=00000000)
-
----
-
 💬 Always happy to talk about frontend architecture, testing strategy, or how far AI-assisted workflows can actually be pushed.
