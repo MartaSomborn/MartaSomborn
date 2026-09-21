@@ -2,8 +2,6 @@
 
 Software developer with a frontend focus — React, TypeScript and MUI by day, Python data and AI projects by night.
 
-🌐 [GitHub](https://github.com/MartaSomborn) &nbsp;•&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/) &nbsp;•&nbsp; ✉️ [Email](mailto:)
-
 ---
 
 ### About me
