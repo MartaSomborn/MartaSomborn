@@ -11,7 +11,7 @@ Software developer with a frontend focus — React, TypeScript and MUI by day, P
 - 🧪 I care about **testable UI** — React Testing Library and Jest, role-based queries, and lint rules that keep a codebase consistent across many contributors.
 - 🐍 Outside of work I build **full-stack side projects**: React/TypeScript frontends on top of Python + FastAPI backends, with Pandas, SQL and Docker doing the heavy lifting.
 - 🤖 I work daily with **AI-assisted development** — Claude Code, Cursor and prompt design — and I like measuring where it actually helps instead of guessing.
-- 📚 Background in **algorithms and data structures**, databases and data analysis from my studies, which is where most of my side projects come from.
+- 📚 Databases and data analysis from my studies, which is where most of my side projects come from.
 
 ---
 
